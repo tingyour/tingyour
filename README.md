@@ -25,7 +25,7 @@
 
 ## 🏠 Website
 [https://tingyour.com](http://tingyour.com?utm_source=github)  
-📌 该网址可能会遭遇打不开的情况，请记住我们的Gmail或者GitHub联系方式，以便随时能寻回，因为我们一直都在！
+📌 该网址可能会遭遇屏蔽的情况，请记住我们的Gmail或者GitHub联系方式，以便随时能寻回，因为我们一直都在！
 
 ## 💪 API
 敬请期待！
