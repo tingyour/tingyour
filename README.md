@@ -34,9 +34,9 @@
 敬请期待！
 
 ## 📫 Contact
-- Gmail: [tingyour001@gmail.com](mailto:tingyour001@gmail.com)
+- Gmail: [support@tingyour.com](mailto:support@tingyour.com)
 - Github: [https://github.com/tingyour](https://github.com/tingyour/tingyour)
-- 爱发电赞助：[https://afdian.net/a/tingyour](https://afdian.net/a/tingyour)
+- Afdian：[https://afdian.net/a/tingyour](https://afdian.net/a/tingyour)
 
 ## 📑 License
 Tingyour is licensed under the
